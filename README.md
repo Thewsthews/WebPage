@@ -18,7 +18,7 @@ This is a simple web page built using Rust and the Yew framework. It demonstrate
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/rust-interactive-web-page.git
+   git clone https://github.com/Thewsthews/rust-interactive-web-page.git
 2. Change to the project directory:
    cd rust-interactive-web-page
 3. Build and run the application:
