@@ -1,3 +1,8 @@
+[package]
+name = "yew-interactive"
+version = "0.1.0"
+edition = "2021"
+
 [dependencies]
-yew = "0.21.0"
-web-sys = "0.3.60"
+yew = { version = "0.21.0", features = ["csr"] }
+web-sys = { version = "0.3", features = ["HtmlInputElement"] }
