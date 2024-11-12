@@ -1,0 +1,3 @@
+[dependencies]
+yew = "0.21.0"
+web-sys = "0.3.60"
