@@ -2,7 +2,7 @@
 
 This is a simple web page built using Rust and the Yew framework. It demonstrates how to create interactive elements in a web application using Rust.
 
-## Features
+## Features ✨
 
 - Displays a count that can be incremented by clicking a button.
 - Includes a text input field that updates in real-time.
