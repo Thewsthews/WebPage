@@ -9,7 +9,7 @@ This is a simple web page built using Rust and the Yew framework. It demonstrate
 - Provides a button to clear the input field.
 - Includes a button to toggle the background color of the page.
 
-## Prerequisites
+## Prerequisites ⛓️
 
 - Rust programming language installed on your system.
 - Cargo, the Rust package manager, installed.
