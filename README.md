@@ -32,7 +32,7 @@ This will start a local development server and open the web page in your default
 - Click the "Clear Input" button to clear the input field.
 - Click the "Toggle Background" button to change the background color of the page.
 
-## Code Explanation
+## Code Explanation📝
 
 The main components of the code are:
 
