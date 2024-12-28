@@ -14,7 +14,7 @@ This is a simple web page built using Rust and the Yew framework. It demonstrate
 - Rust programming language installed on your system.
 - Cargo, the Rust package manager, installed.
 
-## Installation
+## Installation 🀄️
 
 1. Clone the repository:
    git clone https://github.com/Thewsthews/rust-interactive-web-page.git
