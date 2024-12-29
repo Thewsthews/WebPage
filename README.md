@@ -44,7 +44,7 @@ The main components of the code are:
 
 The code uses the Yew framework to create the interactive web page, handling user input and updating the page's state accordingly.
 
-## Contributing
+## Contributing ⚪️
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
