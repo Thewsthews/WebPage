@@ -1,4 +1,4 @@
-# Rust Interactive Web Page 🗒️⚙️
+# Rust Interactive Web Page 🗒️ ⚙️
 
 This is a simple web page built using Rust and the Yew framework. It demonstrates how to create interactive elements in a web application using Rust.
 
