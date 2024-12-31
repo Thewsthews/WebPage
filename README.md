@@ -25,7 +25,7 @@ This is a simple web page built using Rust and the Yew framework. It demonstrate
 
 This will start a local development server and open the web page in your default browser.
 
-## Usage
+## Usage ✅
 
 - Click the "Increment" button to increase the count.
 - Type text into the input field, and the input value will be updated in real-time.
